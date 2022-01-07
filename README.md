@@ -12,7 +12,7 @@ pip2 install mechanize
 
 git clone https://github.com/Ayan136130/WHA-WCF-2K22.git
 
-cd White-Devil
+cd WHA-WCF-2K22
 
 chmod +x *
 
